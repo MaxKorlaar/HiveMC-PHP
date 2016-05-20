@@ -3,7 +3,8 @@
     namespace HiveMCPHP;
 
     /**
-     * Class HiveMCPHP
+     * Class HiveMCPHP 
+     * Capital 'H' because of the name Hive, which refers to The Hive.
      *
      * @author    Max Korlaar
      * @copyright 2016 Max Korlaar
